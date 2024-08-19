@@ -180,21 +180,21 @@ h3{
 
 
 .Campus{
-    width: 80%;
+    width: 100%;
     margin: auto;
     text-align: center;
     padding-top: 50px;
 
 }
 .campus-col{
-    flex-basis: 400px;
+    flex-basis: 600px;
     border-radius: 10px;
     margin-bottom: 30px;
     position: relative;
     overflow: hidden;
 }
 .campus-col img{
-    width: 99%;
+    width: 100%;
     display: block;
 }
     
